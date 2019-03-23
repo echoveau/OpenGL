@@ -1,0 +1,20 @@
+/*
+
+Ce projet a été réalisé dans le cadre de la matière Synthèse d'Image qui nous apprends à utiliser OpenGL
+
+compiler le projet avec la commande :
+	bash compile.sh
+	
+Lancer le programme avec :
+	./test
+
+Touches :
+  - 'O' 	: démarrer et arrêter l'hélico.
+  - 'A' 	: décoller l'hélico (note : Il faut attendre un peu que les hélices aillent assez vite pour qu'il puisse décoller).
+  - 'E' 	: l'atterrissage.
+  - 'Z'/'S' : avancer/reculer
+  - 'Q'/'D' : allé à droite/allé à gauche
+
+Il est possible d'éteindre le moteur en plein vol en appuyant sur 'O'. L'hélico va alors chuter en prenant de la vitesse.
+
+*/
